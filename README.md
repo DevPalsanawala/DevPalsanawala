@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5612AQHkJ08tHYYiXw/article-cover_image-shrink_720_1280/0/1709232148174?e=2147483647&v=beta&t=2wySXWBL1lCKB-kOGL_dmnsV2AMqxkKokKeC0nqTQAU)
+![MasterHead](https://vinncorp.com/wp-content/uploads/2023/01/image-13.png)
 <h1 align="center">Hi 👋, I'm Dev Palsanawala</h1>
 <h3 align="center">Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
