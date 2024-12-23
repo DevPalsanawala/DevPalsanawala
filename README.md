@@ -1,4 +1,4 @@
-![MasterHead](https://vinncorp.com/wp-content/uploads/2023/01/image-13.png)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.weboccult.com%2Fblog%2Fhire-flutter-developer-how-to-find-the-right-one&psig=AOvVaw2doWGWTc01cxoKUGAKvnBE&ust=1735049770765000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNixtKOKvooDFQAAAAAdAAAAABAQ)
 <h1 align="center">Hi 👋, I'm Dev Palsanawala</h1>
 <h3 align="center">Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
