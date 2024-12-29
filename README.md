@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **PHP , Java , PL/SQL , MongoDB, Nodejs**
+- 🌱 I’m currently learning  **PHP , Java , PL/SQL , MongoDB, Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DevPalsanawala](https://github.com/DevPalsanawala)
-
+- 👨‍💻 All of my projects are available at [https://github.com/DevPalsanawala](https://github.com/DevPalsanawala) & [https://github.com/FlutterDev20](https://github.com/FlutterDev20)
+  
 - 💬 Ask me about **Flutter,Dart**
 
-- 📫 How to reach me **devanandp2000@gmail.com**
+- 📫 How to reach me **devanandp2000@gmail.com** & **flutter.dev.journey@gmail.com**
 
 - ⚡ Fun fact **In Flutter, everything is a widget… including my willpower to resist adding one more feature! 😆**
 
