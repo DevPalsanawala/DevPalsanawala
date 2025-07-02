@@ -2,7 +2,8 @@
 # Dev Palsanawala
 ## Mobile App Developer & Software Engineer
 
-<img align="right" alt="Mobile Development" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" alt="Mobile Development"
+height="200" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 Passionate mobile application developer specializing in cross-platform solutions with **Flutter** and **Dart**. I build scalable, user-centric applications that deliver exceptional user experiences across iOS and Android platforms.
 
