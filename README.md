@@ -8,7 +8,7 @@ height="200" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf
 Passionate mobile application developer specializing in cross-platform solutions with **Flutter** and **Dart**. I build scalable, user-centric applications that deliver exceptional user experiences across iOS and Android platforms.
 
 ### 🚀 Expertise
-- **Mobile Development**: Flutter, Dart, Android Native
+- **Mobile Development**: Flutter,Dart, React Native
 - **Backend Technologies**: Node.js, PHP, MongoDB, MySQL
 - **Programming Languages**: Java, C++, Python, JavaScript
 - **Cloud & Database**: Firebase, Oracle, PL/SQL
